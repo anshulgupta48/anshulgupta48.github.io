@@ -12,13 +12,13 @@ import ExperienceCard from './ExperienceCard';
 const Experiance = () => {
   return (
     <ExperianceContainer id='experience-container'>
-      <Title>Experiance</Title>
+      <Title>Experience</Title>
       <Desc>My work experience as a Web Developer & working on different companies and projects.</Desc>
 
       <TimelineSection>
         <Timeline>
           {experiences.map((experience, index) => (
-            <TimelineItem key={index} data-aos="fade-up" data-aos-duration="800">
+            <TimelineItem key={index} sx={{ '&::before': { px: { xs: '0px' } } }} data-aos="fade-up" data-aos-duration="800">
               <TimelineSeparator>
                 <TimelineDot variant="outlined" color="secondary" />
                 <TimelineConnector style={{ background: '#854CE6' }} />

@@ -18,7 +18,7 @@ const Navbar = () => {
         <NavItems>
           <NavLink href='#about-container'>About</NavLink>
           <NavLink href='#skills-container'>Skills</NavLink>
-          <NavLink href='#experience-container'>Experiance</NavLink>
+          <NavLink href='#experience-container'>Experience</NavLink>
           <NavLink href='#projects-container'>Projects</NavLink>
           <NavLink href='#education-container'>Education</NavLink>
           <NavLink href='#contact-container'>Contact</NavLink>

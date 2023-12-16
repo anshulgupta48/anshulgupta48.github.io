@@ -131,7 +131,7 @@ export const education = [
 export const projects = [
   {
     title: "Hoobank Website",
-    description: "Developed a Real-World Bank Website named 'Hoobank' that offers a Unique and Engaging Experience to their users. It Has 4 Sections - Home, Features, Products & Clients Section. 'Hoobank' is a fully responsive website developed using Vite JS and Tailwind CSS. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'Hoobank' ensures a smooth browsing experiance.",
+    description: "Developed a Real-World Bank Website named 'Hoobank' that offers a Unique and Engaging Experience to their users. It Has 4 Sections - Home, Features, Products & Clients Section. 'Hoobank' is a fully responsive website developed using Vite JS and Tailwind CSS. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'Hoobank' ensures a smooth browsing experience.",
     image: HooBank,
     tags: ["Vite JS", "Tailwind CSS"],
     github: "https://github.com/anshulgupta48/Hoobank-Website",
@@ -139,15 +139,15 @@ export const projects = [
   },
   {
     title: "GPT3-OpenAI Website",
-    description: "'GPT3-OpenAI' is a Real-World AI-Tool Website that offers you a collection of informative articles that dive deep into the world of AI. It Has 5 Sections - Home, What is GPT3, Features, Possibility & Blogs Section from Where is Created to Provide a Unique and Engaging Experiance. 'GPT3-OpenAI' is a fully responsive website developed using React JS and Sass. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'GPT3-OpenAI' ensures a smooth browsing experiance.",
+    description: "'GPT3-OpenAI' is a Real-World AI-Tool Website that offers you a collection of informative articles that dive deep into the world of AI. It Has 5 Sections - Home, What is GPT3, Features, Possibility & Blogs Section from Where is Created to Provide a Unique and Engaging experience. 'GPT3-OpenAI' is a fully responsive website developed using React JS and Sass. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'GPT3-OpenAI' ensures a smooth browsing experience.",
     image: Gpt3,
     tags: ["React JS", "Sass"],
-    github: "https://github.com/anshulgupta48/Anon-Ecommerce-Website",
-    link: "https://anshulgupta48.github.io/Anon-Ecommerce-Website",
+    github: "https://github.com/anshulgupta48/GPT3-OpenAI-Website",
+    link: "https://anshulgupta48.github.io/GPT3-OpenAI-Website",
   },
   {
     title: "Anon Ecommerce Website",
-    description: "Designed and Developed a Real-World Ecommerce Website named 'Anon' that offers a wide range of products and features to enhance your online shopping experiance. It Has 6 Sections - Categories, Deals of the Day, Recommended For You, Electronics, Our Founder & Services, Blogs Section. 'Anon' is a fully responsive website developed using HTML, CSS and JavaScript. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'Anon' ensures a smooth browsing experiance.",
+    description: "Designed and Developed a Real-World Ecommerce Website named 'Anon' that offers a wide range of products and features to enhance your online shopping experience. It Has 6 Sections - Categories, Deals of the Day, Recommended For You, Electronics, Our Founder & Services, Blogs Section. 'Anon' is a fully responsive website developed using HTML, CSS and JavaScript. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'Anon' ensures a smooth browsing experience.",
     image: Anon,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/anshulgupta48/Anon-Ecommerce-Website",
@@ -155,7 +155,7 @@ export const projects = [
   },
   {
     title: "Disney+ Hotstar Clone",
-    description: "I Have Created a 'Disney Plus Hotstar' Clone. It is a fully responsive website developed using HTML, CSS and JavaScript. It Has 3 Sections - Recommended For You, Popular Shows, New Releases from where Users Can Navigate to their Favourite Shows. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, it ensures a smooth browsing experiance.",
+    description: "I Have Created a 'Disney Plus Hotstar' Clone. It is a fully responsive website developed using HTML, CSS and JavaScript. It Has 3 Sections - Recommended For You, Popular Shows, New Releases from where Users Can Navigate to their Favourite Shows. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, it ensures a smooth browsing experience.",
     image: Hotstar,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/anshulgupta48/Disney-Plus-Hotstar-Clone",
@@ -163,7 +163,7 @@ export const projects = [
   },
   {
     title: "The Garden Cafe Website",
-    description: "Designed and Developed a Real-World Cafe Website named 'The Garden Cafe' that promises an immersive and enchanting online experiance. 'The Garden Cafe' is a fully responsive website developed using HTML, CSS and JavaScript. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'The Garden Cafe' ensures a smooth browsing experiance.",
+    description: "Designed and Developed a Real-World Cafe Website named 'The Garden Cafe' that promises an immersive and enchanting online experience. 'The Garden Cafe' is a fully responsive website developed using HTML, CSS and JavaScript. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'The Garden Cafe' ensures a smooth browsing experience.",
     image: GardenCafe,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/anshulgupta48/The-Garden-Cafe-Website",
@@ -171,7 +171,7 @@ export const projects = [
   },
   {
     title: "Fithub Gym Website",
-    description: "'Fithub' is a Real-World Gym Website Which offers a comprehensive fitness experiance for users. 'Fithub' is a fully responsive website developed using HTML, CSS and JavaScript. It Has 4 dynamic pages including Home, About, Classes, and Contact. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'Fithub' ensures a smooth browsing experiance.",
+    description: "'Fithub' is a Real-World Gym Website Which offers a comprehensive fitness experience for users. 'Fithub' is a fully responsive website developed using HTML, CSS and JavaScript. It Has 4 dynamic pages including Home, About, Classes, and Contact. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'Fithub' ensures a smooth browsing experience.",
     image: Fithub,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/anshulgupta48/Fithub-Gym-Website",
