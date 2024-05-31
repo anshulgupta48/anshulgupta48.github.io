@@ -10,8 +10,10 @@ export { default as AboutImage } from './about/anshul-gupta.jpg';
 export { default as HTML } from './skills/html.png';
 export { default as CSS } from './skills/css.png';
 export { default as JavaScript } from './skills/javascript.png';
-export { default as React } from './skills/react.svg';
+export { default as ReactJS } from './skills/react-js.svg';
 export { default as Redux } from './skills/redux.svg';
+export { default as NextJS } from './skills/next-js.png';
+export { default as GSAP } from './skills/gsap.svg';
 export { default as SASS } from './skills/sass.svg';
 export { default as Bootstrap } from './skills/bootstrap.png';
 export { default as TailwindCSS } from './skills/tailwind-css.png';
@@ -30,18 +32,21 @@ export { default as Python } from './skills/python.svg';
 
 export { default as Git } from './skills/git.svg';
 export { default as Github } from './skills/github.png';
+export { default as Azure } from './skills/azure.png';
 export { default as VSCode } from './skills/vs-code.png';
 export { default as Postman } from './skills/postman.png';
 export { default as Figma } from './skills/figma.svg';
 
 
 // <======== Exporting Experience-Section Images ========>
+export { default as FoundationalAI } from './experience/foundational-ai.png';
 export { default as Webexcep } from './experience/webexcep.jpg';
 export { default as GirlScript } from './experience/girlscript.jpg';
 export { default as Hack2Skill } from './experience/hack2skill.jpg';
 
 
 // <======== Exporting Projects-Section Images ========>
+export { default as AppleIPhone } from './projects/apple-iphone.png';
 export { default as HooBank } from './projects/hoobank.png';
 export { default as Gpt3 } from './projects/gpt3.png';
 export { default as Anon } from './projects/anon.png';

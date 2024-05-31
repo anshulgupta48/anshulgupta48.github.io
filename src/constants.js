@@ -1,14 +1,14 @@
-import { HTML, CSS, JavaScript, React, Redux, SASS, Bootstrap, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, MySQL, Firebase, C, CPP, Java, Python, Git, Github, VSCode, Postman, Figma } from './assets/export';
-import { Webexcep, GirlScript, Hack2Skill } from './assets/export';
+import { HTML, CSS, JavaScript, ReactJS, Redux, NextJS, GSAP, SASS, Bootstrap, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, MySQL, Firebase, C, CPP, Java, Python, Git, Github, Azure, VSCode, Postman, Figma } from './assets/export';
+import { FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
 import { OKIMR, Excellence, Alpha } from './assets/export';
-import { HooBank, Gpt3, Anon, Hotstar, GardenCafe, Fithub } from './assets/export';
+import { AppleIPhone, HooBank, Gpt3, Anon, Hotstar, GardenCafe, Fithub } from './assets/export';
 
 
 export const Bio = {
   name: "Anshul Gupta",
   roles: ["Full-Stack Developer", "UI/UX Designer", "Freelancer"],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  resume: "https://drive.google.com/file/d/1Pfg7xdoIKj30NILihlXt_rl1Bx4XMemZ/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1TPN4hWmwCFiixAIg1nWetM65u0dxr6KE/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/anshulgupta48/",
   github: "https://github.com/anshulgupta48",
   leetcode: "https://leetcode.com/anshulgupta48/",
@@ -25,8 +25,10 @@ export const skills = [
       { name: "HTML", image: HTML },
       { name: "CSS", image: CSS },
       { name: "JavaScript", image: JavaScript },
-      { name: "React JS", image: React },
+      { name: "React JS", image: ReactJS },
       { name: "Redux", image: Redux },
+      { name: "Next JS", image: NextJS },
+      { name: "GSAP", image: GSAP },
       { name: "SASS", image: SASS },
       { name: "Bootstrap", image: Bootstrap },
       { name: "Tailwind CSS", image: TailwindCSS },
@@ -61,6 +63,7 @@ export const skills = [
     skills: [
       { name: "Git", image: Git },
       { name: "Github", image: Github },
+      { name: "Microsoft Azure", image: Azure },
       { name: "VS Code", image: VSCode },
       { name: "Postman", image: Postman },
       { name: "Figma", image: Figma }
@@ -71,11 +74,20 @@ export const skills = [
 
 export const experiences = [
   {
+    img: FoundationalAI,
+    role: "Frontend Developer Intern",
+    company: "Foundational AI",
+    date: "Dec 2023 - May 2024",
+    desc: "During my internship at Foundational AI, I had developed and maintained end-to-end functionality for Foundational AI's SAAS products, including a CRM Outlook integration and internal application management tools. I Have Integrated various APIs to enable seamless data flow and functionality within the applications.",
+    skills: ["HTML", "CSS", "JavaScript", "React JS", "Redux", "Next JS", "GSAP", "SASS"],
+    doc: ""
+  },
+  {
     img: Webexcep,
     role: "Frontend Developer Intern",
     company: "Webexcep",
-    date: "Sep 2023 - Present",
-    desc: "During my internship at Webexcep, I had the opportunity to gain hands-on experience in frontend development. I contributed to the development of web applications, collaborated with the development team, and worked on various projects to enhance my skills in web development.",
+    date: "Sep 2023 - Nov 2023",
+    desc: "During my internship at Webexcep, I had the opportunity to gain hands-on experience in frontend development. I have developed and maintained responsive websites for real-life businesses, contributing to their online presence and customer engagement.",
     skills: ["HTML", "CSS", "JavaScript", "React JS", "SASS", "Bootstrap", "Tailwind CSS", "Material UI"],
     doc: ""
   },
@@ -129,6 +141,14 @@ export const education = [
 
 
 export const projects = [
+  {
+    title: "Apple IPhone Website",
+    description: "Developed a Apple IPhone Website Clone that offers a Unique and Engaging Experience to their users. It Has 5 Sections - Hero, Highlights, IPhone Model, Features, How it Works Section. It is a fully responsive website developed using Vite JS, Tailwind CSS, GSAP and Three JS.. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'Hoobank' ensures a smooth browsing experience.",
+    image: AppleIPhone,
+    tags: ["Vite JS", "Tailwind CSS", "GSAP", "Three JS"],
+    github: "https://github.com/anshulgupta48/Apple-IPhone-Clone",
+    link: "https://apple-iphone-website-one.vercel.app/",
+  },
   {
     title: "Hoobank Website",
     description: "Developed a Real-World Bank Website named 'Hoobank' that offers a Unique and Engaging Experience to their users. It Has 4 Sections - Home, Features, Products & Clients Section. 'Hoobank' is a fully responsive website developed using Vite JS and Tailwind CSS. Regardless of the device you use, be it a desktop computer, tabley, or smartphone, 'Hoobank' ensures a smooth browsing experience.",
