@@ -11,9 +11,11 @@ const Navbar = () => {
   return (
     <NavbarContainer id='navbar'>
       <Nav>
-        <NavLogo>
-          <span style={{ color: "white", display: "flex", alignItems: "center", cursor: 'pointer' }}><DiCssdeck size="50px" /><Span>Portfolio</Span></span>
-        </NavLogo>
+        <NavLink href='#about-container'>
+          <NavLogo>
+            <span style={{ color: "white", display: "flex", alignItems: "center", cursor: 'pointer' }}><DiCssdeck size="50px" /><Span>Portfolio</Span></span>
+          </NavLogo>
+        </NavLink>
 
         <NavItems>
           <NavLink href='#about-container'>About</NavLink>
