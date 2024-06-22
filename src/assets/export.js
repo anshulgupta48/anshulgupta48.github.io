@@ -46,6 +46,7 @@ export { default as Hack2Skill } from './experience/hack2skill.jpg';
 
 
 // <======== Exporting Projects-Section Images ========>
+export { default as AnshulEstate } from './projects/anshul-estate.png';
 export { default as AppleIPhone } from './projects/apple-iphone.png';
 export { default as HooBank } from './projects/hoobank.png';
 export { default as Gpt3 } from './projects/gpt3.png';

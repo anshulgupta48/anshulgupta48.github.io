@@ -1,14 +1,14 @@
 import { HTML, CSS, JavaScript, ReactJS, Redux, NextJS, GSAP, SASS, Bootstrap, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, MySQL, Firebase, C, CPP, Java, Python, Git, Github, Azure, VSCode, Postman, Figma } from './assets/export';
 import { FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
 import { OKIMR, Excellence, Alpha } from './assets/export';
-import { AppleIPhone, HooBank, Gpt3, Anon, Hotstar, GardenCafe, Fithub } from './assets/export';
+import { AnshulEstate, AppleIPhone, HooBank, Gpt3, Anon, Hotstar, GardenCafe, Fithub } from './assets/export';
 
 
 export const Bio = {
   name: "Anshul Gupta",
   roles: ["Frontend Developer", "Full-Stack Developer", "UI/UX Designer", "Freelancer"],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  resume: "https://drive.google.com/file/d/1TPN4hWmwCFiixAIg1nWetM65u0dxr6KE/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1Sbr1Oeferv47EEeCJItwiqd-A_fk3BAj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anshulgupta48/",
   github: "https://github.com/anshulgupta48",
   leetcode: "https://leetcode.com/anshulgupta48/",
@@ -141,6 +141,14 @@ export const education = [
 
 
 export const projects = [
+  {
+    title: "Anshul-Estate WebApp",
+    description: "Developed a fully responsive Real-Estate web application using Vite JS, Node JS, Express JS, MongoDB, Firebase, Redux, Tailwind CSS. Implemented JWT for secure authentication and bcryptjs for password encryption, enhancing the security and integrity of user data. Utilized Firebase for user authentication and MongoDB for efficient and scalable data storage, ensuring robust backend support.",
+    image: AnshulEstate,
+    tags: ["Vite JS", "Node JS", "Express JS", "MongoDB", "Firebase", "Redux", "Tailwind CSS"],
+    github: "https://github.com/anshulgupta48/Anshul-Estate-WebApp",
+    link: "https://mern-estate-webapp.onrender.com/",
+  },
   {
     title: "Apple IPhone Website",
     description: "Developed a Apple IPhone Website Clone that offers a Unique and Engaging Experience to their users. It Has 5 Sections - Hero, Highlights, IPhone Model, Features, How it Works Section. It is a fully responsive website developed using Vite JS, Tailwind CSS, GSAP and Three JS.. Regardless of the device you use, be it a desktop computer, tablet, or smartphone, it ensures a smooth browsing experience.",
