@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.864732d2.css",
-    "main.js": "/static/js/main.0589e489.js",
+    "main.js": "/static/js/main.72fe70df.js",
     "static/media/anon.png": "/static/media/anon.b284a33b69adfac4b57c.png",
     "static/media/hotstar.png": "/static/media/hotstar.b9c87e2605e9d24b695e.png",
     "static/media/gpt3.png": "/static/media/gpt3.f9e42b58d2782cc9ee6b.png",
@@ -12,6 +12,7 @@
     "static/media/preloader.gif": "/static/media/preloader.8a8cab0a539d646f02bf.gif",
     "static/media/azure.png": "/static/media/azure.5a694f18b0e4f276ce48.png",
     "static/media/tailwind-css.png": "/static/media/tailwind-css.3549d9e451d7abb96934.png",
+    "static/media/anshul-estate.png": "/static/media/anshul-estate.cb90ef9f7979e54f7aee.png",
     "static/media/foundational-ai.png": "/static/media/foundational-ai.f7efe8bf8b3719f4ce27.png",
     "static/media/github.png": "/static/media/github.ba57b0e0a8e0600a63e3.png",
     "static/media/css.png": "/static/media/css.31d6eb9e1504961bf8a9.png",
@@ -38,10 +39,10 @@
     "static/media/firebase.svg": "/static/media/firebase.82a35fc0b90d124a8e7333989f767fd3.svg",
     "static/media/react-js.svg": "/static/media/react-js.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.864732d2.css.map": "/static/css/main.864732d2.css.map",
-    "main.0589e489.js.map": "/static/js/main.0589e489.js.map"
+    "main.72fe70df.js.map": "/static/js/main.72fe70df.js.map"
   },
   "entrypoints": [
     "static/css/main.864732d2.css",
-    "static/js/main.0589e489.js"
+    "static/js/main.72fe70df.js"
   ]
 }
