@@ -1,12 +1,12 @@
-import { HTML, CSS, JavaScript, ReactJS, Redux, NextJS, GSAP, SASS, Bootstrap, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, MySQL, Firebase, C, CPP, Java, Python, Git, Github, Azure, VSCode, Postman, Figma } from './assets/export';
-import { FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
+import { HTML, CSS, Bootstrap, JavaScript, JQuery, ReactJS, NextJS, RemixJS, Redux, TypeScript, TailwindCSS, MaterialUI, GSAP, SASS, Expo, ReactNative, NodeJS, ExpressJS, MongoDB, MySQL, PHP, Supabase, Appwrite, Firebase, C, CPP, Git, Github, Azure, VSCode, Postman, Figma } from './assets/export';
+import { PLSLawyers, DcodeBlock, FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
 import { OKIMR, Excellence, Alpha } from './assets/export';
 import { AnshulEstate, AppleIPhone, HooBank, Gpt3, Anon, Hotstar, GardenCafe, Fithub } from './assets/export';
 
 
 export const Bio = {
   name: "Anshul Gupta",
-  roles: ["Frontend Developer", "Full-Stack Developer", "UI/UX Designer", "Freelancer"],
+  roles: ["Full-Stack Developer", "Freelancer"],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   resume: "https://drive.google.com/file/d/1Sbr1Oeferv47EEeCJItwiqd-A_fk3BAj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anshulgupta48/",
@@ -24,15 +24,20 @@ export const skills = [
     skills: [
       { name: "HTML", image: HTML },
       { name: "CSS", image: CSS },
+      { name: "Bootstrap", image: Bootstrap },
       { name: "JavaScript", image: JavaScript },
+      { name: "JQuery", image: JQuery },
       { name: "React JS", image: ReactJS },
-      { name: "Redux", image: Redux },
       { name: "Next JS", image: NextJS },
+      { name: "Remix JS", image: RemixJS },
+      { name: "Redux", image: Redux },
+      { name: "TypeScript", image: TypeScript },
+      { name: "Tailwind CSS", image: TailwindCSS },
+      { name: "Material UI", image: MaterialUI },
       { name: "GSAP", image: GSAP },
       { name: "SASS", image: SASS },
-      { name: "Bootstrap", image: Bootstrap },
-      { name: "Tailwind CSS", image: TailwindCSS },
-      { name: "Material UI", image: MaterialUI }
+      { name: "Expo", image: Expo },
+      { name: "React Native", image: ReactNative }
     ]
   },
 
@@ -43,6 +48,9 @@ export const skills = [
       { name: "Express JS", image: ExpressJS },
       { name: "MongoDB", image: MongoDB },
       { name: "MySQL", image: MySQL },
+      { name: "PHP", image: PHP },
+      { name: "Supabase", image: Supabase },
+      { name: "Appwrite", image: Appwrite },
       { name: "Firebase", image: Firebase }
     ]
   },
@@ -52,9 +60,8 @@ export const skills = [
     skills: [
       { name: "C", image: C },
       { name: "C++", image: CPP },
-      { name: "Java", image: Java },
       { name: "JavaScript", image: JavaScript },
-      { name: "Python", image: Python }
+      { name: "TypeScript", image: TypeScript },
     ]
   },
 
@@ -74,12 +81,30 @@ export const skills = [
 
 export const experiences = [
   {
+    img: PLSLawyers,
+    role: "Frontend Developer",
+    company: "PLS Lawyers",
+    date: "July 2024 - Present",
+    desc: null,
+    skills: null,
+    doc: ""
+  },
+  {
+    img: DcodeBlock,
+    role: "Frontend Developer Intern",
+    company: "DcodeBlock",
+    date: "June 2024 - July 2024",
+    desc: "Designed and implemented modular components from scratch, replacing legacy code to enhance security and reduce technical debt by 50%. Improved platform performance through optimized frontend implementation, reducing rendering times by 20%. Strengthened security protocols, mitigating potential vulnerabilities and improving platform integrity by 40%. Partnered with web3 developers, backend teams, and UI/UX designers to deliver a cohesive and user-centric platform.",
+    skills: ["HTML", "CSS", "Bootstrap", "JavaScript", "ReactJS", "Tailwind CSS", "GSAP", "SASS"],
+    doc: ""
+  },
+  {
     img: FoundationalAI,
     role: "Frontend Developer Intern",
     company: "Foundational AI",
     date: "Dec 2023 - May 2024",
-    desc: "During my internship at Foundational AI, I had developed and maintained end-to-end functionality for Foundational AI's SAAS products, including a CRM Outlook integration and internal application management tools. I Have Integrated various APIs to enable seamless data flow and functionality within the applications.",
-    skills: ["HTML", "CSS", "JavaScript", "React JS", "Redux", "Next JS", "GSAP", "SASS"],
+    desc: "Developed a CRM-integrated Outlook plugin to automate email workflows, enabling businesses to respond to customers in a single click, leading to a 30% increase in response efficiency. Designed and built Foundational AI's main website, improving SEO performance by 45%. Developed a multi-functional platform to manage Outlook plugin operations, introducing WhatsApp Business message scheduling, driving a 25% increase in premium subscriptions. Improved application performance by optimizing code and implementing best practices, reducing page load times by 20%. Collaborated with cross-functional teams to ensure seamless integration of frontend designs with backend services, maintaining a 99% uptime rate for all deployed features.",
+    skills: ["HTML", "CSS", "JavaScript", "ReactJS", "Redux", "NextJS", "Material UI", "GSAP", "SCSS"],
     doc: ""
   },
   {
@@ -87,8 +112,8 @@ export const experiences = [
     role: "Frontend Developer Intern",
     company: "Webexcep",
     date: "Sep 2023 - Nov 2023",
-    desc: "During my internship at Webexcep, I had the opportunity to gain hands-on experience in frontend development. I have developed and maintained responsive websites for real-life businesses, contributing to their online presence and customer engagement.",
-    skills: ["HTML", "CSS", "JavaScript", "React JS", "SASS", "Bootstrap", "Tailwind CSS", "Material UI"],
+    desc: "Designed and deployed responsive websites, enhancing online presence for small to medium-sized businesses and boosting user engagement by 25%. Built and launched Webexcep's main business website, achieving a 30% improvement in site performance and SEO rankings through optimized development practices. Ensured seamless cross-browser compatibility and responsiveness across devices, reducing reported UI issues by 40%. Collaborated with cross-functional teams to deliver high-quality websites with a focus on performance, scalability, and user experience.",
+    skills: ["HTML", "CSS", "Bootstrap", "JavaScript", "ReactJS", "Redux", "Tailwind CSS", "Material UI", "GSAP"],
     doc: ""
   },
   {
@@ -96,8 +121,8 @@ export const experiences = [
     role: "Open Source Contributor",
     company: "GirlScript Summer of Code",
     date: "May 2023 - Aug 2023",
-    desc: "I had the privilege of participating in GirlScript Summer of Code, a prestigious open source program that encourages young talents to contribute to various open source projects.",
-    skills: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    desc: "Collaborated on open-source frontend projects, fixing bugs and responsive design elements, enhancing functionality by 30%. Improved code quality and scalability by refactoring legacy components of open-source projects, ensuring long-term maintainability. Collaborated with a distributed team of contributors to deliver scalable, well-documented codebases for community-driven applications.",
+    skills: ["HTML", "CSS", "Bootstrap", "JavaScript", "ReactJS"],
     doc: ""
   },
   {
@@ -105,8 +130,8 @@ export const experiences = [
     role: "Open Source Contributor",
     company: "Hack2Skill",
     date: "Jun 2023 - Jul 2023",
-    desc: "I had the opportunity to contribute as a frontend developer in the open source community of Hack2Skill, a platform dedicated to advancing cybersecurity and ethical hacking through technology.",
-    skills: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    desc: "Contributed to open-source projects focusing on interactive UI elements, increasing user retention and satisfaction by 20%. Improved code quality and scalability by refactoring legacy components of open-source projects, ensuring long-term maintainability. Partnered with developers across the globe to contribute scalable solutions and adhere to industry best practices.",
+    skills: ["HTML", "CSS", "Bootstrap", "JavaScript", "ReactJS"],
     doc: ""
   }
 ];
@@ -117,7 +142,7 @@ export const education = [
     img: OKIMR,
     school: "Om Kothari Institute of Management & Research, Kota",
     date: "Sep 2022 - Jun 2025",
-    grade: "85.71%",
+    grade: "80%",
     desc: "I am currently pursuing a Bachelor's degree in Computer Application at Om Kothari Institute of Management & Research, Kota, where I am honing my skills in computer science and information technology. This program is equipping me with the knowledge and expertise required to thrive in the dynamic field of technology and software development.",
     degree: "BCA (Bachelor in Computer Application)"
   },
